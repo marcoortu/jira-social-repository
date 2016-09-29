@@ -9,7 +9,7 @@ Issue tracking systems store valuable data for testing hypotheses concerning mai
 
 # Installation
 
-Just run ./extract.sh!
+Just run ./extract.sh to generate emotion_dataset_jira.sql file. 
 
 
 # Please cite :)!
